@@ -7,6 +7,7 @@
   [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/alex-dev2015)](https://github.com/alex-dev2015)
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/alex-nascimento-de-sousa-51389941/)](https://www.linkedin.com/in/alex-nascimento-de-sousa-51389941/)
   [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:alexdeveloper17@gmail.com)](mailto:alexdeveloper17@gmail.com)
+  [![Site Badge](https://img.shields.io/website?up_color=sucess&url=https%3A%2F%2Falexsousa.eti.br%2F)](https://alexsousa.eti.br/)
 </div>
 
 
