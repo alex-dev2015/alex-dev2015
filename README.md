@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Alex Sousa
 
-### A Web Developer React, React Native and NodeJS
+### A Web Developer React, React Native, NodeJS, JAVA and PHP
 
 <div align="center">
 
