@@ -11,11 +11,11 @@
 </div>
 
 
-- 🔭 I’m currently working on [Smaak Bebidas](https://www.smaak.com.br/)
+- 🔭 I’m currently working on [River Bebidas](#)
 - 🌱 I’m currently learning typescript
 - 🤔 I’m looking for help with on [Google](https://www.google.com.br/)
-- 💬 Ask me about **React** and **React Native**
-- 📫 How to reach me: **alexdeveloper17@gmail.com**
+- 💬 Ask me about **React** , **React Native** and **Laravel**
+- 📫 How to reach me: **alex.sousa20@hotmail.com**
 
 
 <p align="center">
