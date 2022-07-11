@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Alex Sousa
+## Olá 👋, sou o Alex Nascimento
 
-### A Web Developer React, React Native, NodeJS, JAVA and PHP
+### Um desenvolvedor FullStack PHP com conhecimentos em React, React Native, NodeJS, JAVA e Delphi.
 
 <div align="center">
 
@@ -11,11 +11,11 @@
 </div>
 
 
-- 🔭 I’m currently working on [River Bebidas](#)
-- 🌱 I’m currently learning typescript
-- 🤔 I’m looking for help with on [Google](https://www.google.com.br/)
-- 💬 Ask me about **React** , **React Native** and **Laravel**
-- 📫 How to reach me: **alex.sousa20@hotmail.com**
+- 🔭 Atualimente estou trabalhando na [River Bebidas](#)
+- 🌱 Aprendendo typescript e Docker
+- 🤔 Sempre procuro suporte no [Stackoverflow](https://stackoverflow.com/)
+- 💬 Pergunte-me sobre **ReactJS** , **React Native** and **Laravel**
+- 📫 Como entrar em contato comigo: **alex.sousa20@hotmail.com**
 
 
 <p align="center">
