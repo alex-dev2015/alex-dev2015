@@ -11,7 +11,7 @@
 </div>
 
 
-- 🔭 Atualimente estou trabalhando na [River Bebidas](#)
+- 🔭 Atualmente estou trabalhando na [River Bebidas](#)
 - 🌱 Aprendendo typescript e Docker
 - 🤔 Sempre procuro suporte no [Stackoverflow](https://stackoverflow.com/)
 - 💬 Pergunte-me sobre **ReactJS** , **React Native** and **Laravel**
