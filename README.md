@@ -11,10 +11,9 @@
 </div>
 
 
-- 🔭 Atualmente estou trabalhando como [Freelancer](#)
-- 🌱 Aprendendo typescript e Docker
+- 🔭 Atualmente estou trabalhando em um grande Projeto na rede Educacional do estado do Amazonas [PJ](#)
 - 🤔 Sempre procuro suporte no [Stackoverflow](https://stackoverflow.com/)
-- 💬 Pergunte-me sobre **ReactJS** , **React Native** and **Laravel**
+- 💬 Pergunte-me sobre **ReactJS** , **React Native**, **PHP**, **Spring Boot** and **Laravel**
 - 📫 Como entrar em contato comigo: **alex.sousa20@hotmail.com**
 
 
