@@ -11,7 +11,7 @@
 </div>
 
 
-- 🔭 Atualmente estou trabalhando em um grande Projeto na rede Educacional do estado do Amazonas [PJ](#)
+- 🔭 Atualmente estou trabalhando em uma das maiores empresa de Gestão do Brasil, a Sankhya
 - 🤔 Sempre procuro suporte no [Stackoverflow](https://stackoverflow.com/)
 - 💬 Pergunte-me sobre **ReactJS** , **React Native**, **PHP**, **Spring Boot** and **Laravel**
 - 📫 Como entrar em contato comigo: **alex.sousa20@hotmail.com**
