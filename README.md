@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # 👋 Olá, eu sou Alex Nascimento!
@@ -158,4 +158,3 @@ Estou sempre aberto a trocar conhecimentos, compartilhar experiências e convers
 **"Código limpo, boas práticas e evolução contínua."**
 
 </div>
-```
